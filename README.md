@@ -7,7 +7,7 @@ Contains Versions of GENESIS. Note user is not allowed to go back in versions.
 - Setup properties of prefabs
 - Added support of multiple prefabs
 - Added support of multiple prefabs in UI
-- Revised scripts for reliable clock rates
+- Revised scripts
 
 24/11/24
 - Added physics support

@@ -1,6 +1,7 @@
+![Image Alt Text](https://url_to_your_image.com/image.jpg)
+
 # Genesis
 Contains Versions of GENESIS. Note user is not allowed to go back in versions.
-
 
 # LOGS
 
